@@ -15,5 +15,3 @@ The definition files of the network model are stored in the subdirectory “ops�
 ### Test
 The well-trained checkpionts is stored in the subdirectory “Checkpoints”.
 The Python source files to run testing for α<sub>1</sub> ~ α<sub>7</sub> approaches are stored in the subdirectory “Test”.
-
-Any questions, please contact us at swzhou@hnu.edu.cn.
