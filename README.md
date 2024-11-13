@@ -3,7 +3,7 @@
 PyTorch 2.2.0 + Python3.10;
 
 ### Datasets
-For training, we use DIV2K and Flickr2K datasets. To accelerate image loading during training, each training image is evenly divided into four
+DIV2K and Flickr2K are used as the training datasets. To accelerate image loading during training, each training image is evenly divided into four
 parts, with each part becoming a separate, relatively smaller training image. 
 
 For testing, we use five standard benchmark datasets, including Set5, Set14, BSDS100, Urban100, and the validation set of DIV2K.
